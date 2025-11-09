@@ -251,6 +251,7 @@ if st.button("🔮 Predict Health Score"):
 st.markdown("""
     <hr>
     <div style='text-align:center; color:grey; font-size:14px;'>
-    © 2025 Health Score Predictor | Developed by <b>Your Name</b>
+    © 2025 Health Score Predictor | Developed by <b>Yoga</b>
     </div>
 """, unsafe_allow_html=True)
+
